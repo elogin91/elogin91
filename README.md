@@ -3,7 +3,7 @@
 
 <h3>About me:</h3>
 
-- 🌱 I’m currently in my first year of DAW **Develop Aplication WEB**
+- 🌱 I’m currently in my second year of DAW **Develop Aplication WEB**
 
 - 🤝 I’m looking for **my first developer job**
 
